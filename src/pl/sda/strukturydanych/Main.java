@@ -56,7 +56,7 @@ public class Main {
 //        printTab(sumaEltablic(utworzTabele(),utworzTabele()));
 //
 //        printTab(sumaEltablicNierow(utworzTabele(),utworzTabele()));
-
+       int[] tablica = new int[] {12,12,2,2,1,2,4,2,1,23}; // ciekawy sposob definiowania tablicy
         System.out.println(" czy pierwsza: " + czyPierwsza());
     }
 
@@ -130,8 +130,10 @@ public class Main {
         Random generator = new Random();
 
         System.out.println(" ");
+        int max =100;
+        int min = -100;
         for(int j=0;j<tab2.length;j++){
-           tab2[j]=generator.nextInt(100);
+           tab2[j]=generator.nextInt(max-min)+min;
         }
 
         for(int j=0;j<tab2.length;j++){
