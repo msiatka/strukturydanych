@@ -32,15 +32,16 @@ public class Main {
 
 
         //lista dwukierunkowa
-        wywolajLista();
+        //wywolajLista();
 
-        mojaNowaMetodaJava();
-
-
+        wywolajZM();
 
     }
 
+    public static void wywolajZM() {
 
+        System.out.println(" koemntarz");
+    }
 
     public static void wywolajLista(){
         Lista lista = new Lista();

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbefd789-65fd-4900-b4fe-2a97b2fc9f0b" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d3ef97f9-3942-4fdf-802f-a6e533c4edcf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +12,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pl/sda/strukturydanych/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="77" column="51" lean-forward="true" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
+            <state relative-caret-position="242">
+              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,29 +127,6 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/StosTab.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/StosElem.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/StosListIndexOutException.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/StosList.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/kolejka/KolejkaElem.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/kolejka/KolejkaList.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/algorytmy/ONP.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/algorytmy/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/Lista/ListaElem.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/Lista/Lista.java" />
-        <option value="$PROJECT_DIR$/src/pl/sda/strukturydanych/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="727" />
-    <option name="y" value="80" />
-    <option name="width" value="1150" />
-    <option name="height" value="876" />
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -227,7 +202,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544880083764" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544880458786" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -269,6 +244,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544346710123</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1544880123187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544880123187</updated>
     </task>
     <servers />
   </component>
@@ -321,30 +303,34 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pl/sda/strukturydanych/Main.java</url>
-          <line>131</line>
+          <line>132</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pl/sda/strukturydanych/Main.java</url>
-          <line>134</line>
+          <line>135</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pl/sda/strukturydanych/Main.java</url>
-          <line>135</line>
+          <line>136</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/pl/sda/strukturydanych/Main.java</url>
-          <line>149</line>
+          <line>150</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -421,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/sda/strukturydanych/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="77" column="51" lean-forward="true" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
+        <state relative-caret-position="242">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
