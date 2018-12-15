@@ -34,6 +34,8 @@ public class Main {
         //lista dwukierunkowa
         wywolajLista();
 
+        mojaNowaMetodaJava();
+
 
 
     }
@@ -70,6 +72,11 @@ public class Main {
 //
 //
 //        lista.show();
+    }
+
+    public static void mojaNowaMetodaJava(){
+        System.out.println("Dodałem nowa funkcje");
+
     }
     public static void wywolajONP(){
         Scanner scanner = new Scanner(System.in);
